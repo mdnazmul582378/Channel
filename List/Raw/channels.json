@@ -1,0 +1,62 @@
+[
+  {
+    "name": "XHAMSTER 1",
+    "url": "https://video-cf.xhcdn.com/aLDfvE3gKMSlYIwU1ypA5GvaopSsldepPT4QrGthMEQ%3D/87/1746140400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720 Gebührensatzungp:/022/708/487/_TPL_.av1.mp4.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "live"
+  },
+  {
+    "name": "XHAMSTER 2",
+    "url": "https://video-cf.xhcdn.com/lYN%2FkWNhRWWem9LIo0GAKGHMYO6jwb%2FwJDoXPkCHQMo%3D/87/1746457200/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/022/647/228/_TPL_.av1.mp4.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "live"
+  },
+  {
+    "name": "Channel 3",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "vod"
+  },
+  {
+    "name": "XVideos",
+    "url": "https://cdn77-vid.xvideos-cdn.com/Sjd4LJFeIxZae9nhFgFdSA==,1746745314/videos/hls/f8/53/ea/f853eac977eeb88af2a8687ffde480cd/hls.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "vod"
+  },
+  {
+    "name": "Channel 5",
+    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "vod"
+  },
+  {
+    "name": "XNNXX",
+    "url": "https://cdn77-vid.xnxx-cdn.com/HYfJs2eiPFfNdNoY1NCCYQ==,1746745733/videos/hls/f3/d9/3e/f3d93ecd5a4a7b9f2fd7570ecedf0d23/hls.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "live"
+  },
+  {
+    "name": "Channel 7",
+    "url": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "vod"
+  },
+  {
+    "name": "Channel 8",
+    "url": "https://dai.google.com/linear/hls/event/xyz/master.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "vod"
+  },
+  {
+    "name": "Channel 9",
+    "url": "http - http://live.adultiptv.net/milf.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "live"
+  },
+  {
+    "name": "Channel 10",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "img": "https://via.placeholder.com/40",
+    "type": "live"
+  }
+]
